@@ -109,21 +109,3 @@
       <img src="images/REST API Postman.png" width="100%" title="Postman automation">
     </td>
   </tr>
-
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Design testing techniques</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Prototype Evaluation
-<br>Iterative Design Assessment
-<br>Comparative Analysis
-
-  </td>
-    <td width="70%">
-      <img src="image/ttd.png" width="100%" title="Postman automation">
-    </td>
-  </tr>
-  
-</table># courses
