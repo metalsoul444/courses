@@ -88,8 +88,21 @@
 <br>Libraries node.js and chai.js
 <br>API Work
 
+<tr>
+    <th colspan="2" style="text-align:center;"><h3>Software testing from scratch. Theory + Practice</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Design testing techniques
+<br>Test documentation
+<br>Web Application Testing
+<br>API testing(Postman)
+<br>SQL
+<br>GIT + BASH
+
   </td>
     <td width="70%">
-      <img src="images/REST API Postman.png" width="100%" title="Postman automation">
+      <img src="images/Test - Rusau.png" width="100%" title="Postman automation">
     </td>
   </tr>
