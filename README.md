@@ -1,74 +1,5 @@
 <table>
   <tr>
-    <th colspan="2" style="text-align:center;"><h3>DOCKER</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-<br>Web Automation
-<br>API Automation
-<br>Mobile automation
-<br>Test Management
-<br>Infrastructure and notifications
-
-  </td>
-    <td width="70%">
-      <img src="images/docker-1.png" width="100%" title="Docker">
-    </td>
-  </tr>
-  
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Gitlab</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Gitlab
-<br>CI/CD
-<br>Web Automation
-<br>Test Reports
-<br>Test Management
-
-  </td>
-    <td width="70%">
-      <img src="image/gitlab-1.png" width="100%" title="Gitlab">
-  </td>
-  </tr>
-  
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Jenkins</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Web Automation
-<br>CI/CD
-<br>Web Automation
-<br>Test Management
-
-  </td>
-    <td width="70%">
-      <img src="image/jenkins-1.png" width="100%" title="Jenkins">
-    </td>
-  </tr>
-  
-  <tr>
-    <th colspan="2" style="text-align:center;"><h3>Kubernetes</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>Test Automation
-<br>Docker 
-<br>CI/CD
-<br>Infrastructure and notifications
-
-  </td>
-    <td width="70%">
-      <img src="image/k8s-1.png" width="100%" title="Kubernetes">
-    </td>
-  </tr>
-  
-  <tr>
     <th colspan="2" style="text-align:center;"><h3>Postman</h3></th>
   </tr>
   <tr>
@@ -118,7 +49,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/nt jmeter-1.png" width="100%" title="Jmeter">
+      <img src="images/Jmeter.png" width="100%" title="Jmeter">
     </td>
   </tr>
   
@@ -139,7 +70,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/sql-1.png" width="100%" title="SQL">
+      <img src="images/SQL - Shultais.png" width="100%" title="SQL">
     </td>
   </tr>
   
@@ -175,7 +106,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/postman2.png" width="100%" title="Postman automation">
+      <img src="images/REST API Postman.png" width="100%" title="Postman automation">
     </td>
   </tr>
 
