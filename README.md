@@ -14,7 +14,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/postman-1.png" width="100%" title="Postman">
+      <img src="images/Postman - QA Way.png" width="100%" title="Postman">
     </td>
   </tr>
 
@@ -74,22 +74,6 @@
     </td>
   </tr>
   
- <tr>
-    <th colspan="2" style="text-align:center;"><h3>JavaScript</h3></th>
-  </tr>
-  <tr>
-    <td width="30%">
-
-<br>JS
-<br>Postman
-<br>Web Automation
-<br>API Automation
-
-  </td>
-    <td width="70%">
-      <img src="image/js-1.png" width="100%" title="JavaScript">
-    </td>
-  </tr>
 
 <tr>
     <th colspan="2" style="text-align:center;"><h3>Postman automation</h3></th>
