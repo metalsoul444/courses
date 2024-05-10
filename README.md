@@ -12,7 +12,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/docker-1.png" width="100%" title="Docker">
+      <img src="images/docker-1.png" width="100%" title="Docker">
     </td>
   </tr>
   
@@ -102,7 +102,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/postman_automation-1.png" width="100%" title="Postman automation">
+      <img src="images/AutoPostman - QA Hacking.png" width="100%" title="Postman automation">
     </td>
   </tr>
   
